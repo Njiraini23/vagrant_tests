@@ -1,0 +1,1 @@
+Tests vagrant is okay
